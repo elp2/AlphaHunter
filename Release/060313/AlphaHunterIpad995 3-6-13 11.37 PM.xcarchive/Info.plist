@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/AlphaHunterIpad995.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.chichai.AlphaHunter</string>
+		<key>CFBundleVersion</key>
+		<string>2.0</string>
+		<key>IconPaths</key>
+		<array>
+			<string>Applications/AlphaHunterIpad995.app/Icon.png</string>
+		</array>
+		<key>SigningIdentity</key>
+		<string>iPhone Distribution: Edward Palmer</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2013-03-06T12:37:36Z</date>
+	<key>Name</key>
+	<string>AlphaHunterIpad995</string>
+	<key>SchemeName</key>
+	<string>AlphaHunterIpad995</string>
+	<key>Status</key>
+	<string>Submitted</string>
+</dict>
+</plist>

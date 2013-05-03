@@ -1,0 +1,193 @@
+<resources>
+<game_profile_page_info>
+  <has_achievements>true</has_achievements>
+  <has_leaderboards>true</has_leaderboards>
+  <has_featured_application>false</has_featured_application>
+  <has_ipurchase>false</has_ipurchase>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+  <has_chat_rooms>true</has_chat_rooms>
+  <short_name>AlphaHunter</short_name>
+  <name>AlphaHunter</name>
+  <has_challenges>false</has_challenges>
+  <id>224893</id>
+  <timestamp>2011-01-09 16:25:03</timestamp>
+  <suggestions_topic_id>606363</suggestions_topic_id>
+</game_profile_page_info>
+<offline>
+<timestamp>2011-01-09 16:25:03</timestamp>
+<achievements>
+<achievement>
+<id>776993</id>
+<title>4 Letter Word</title>
+<description>Get a word at least 4 letters long</description>
+<gamerscore>40</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>1</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777003</id>
+<title>5 Letter Word</title>
+<description>Get a word at least 5 letters long</description>
+<gamerscore>50</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>2</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777013</id>
+<title>6 Letter Word</title>
+<description>Get a word at least 6 letters long</description>
+<gamerscore>60</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>3</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777023</id>
+<title>7 Letter Word</title>
+<description>Get a word at least 7 letters long</description>
+<gamerscore>70</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>4</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777033</id>
+<title>8 Letter Word</title>
+<description>Get a word at least 8 letters long</description>
+<gamerscore>80</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>5</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777043</id>
+<title>9 Letter Word</title>
+<description>Get a word at least 9 letters long</description>
+<gamerscore>90</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>6</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777053</id>
+<title>10 Letter Word</title>
+<description>Get a word at least 10 letters long</description>
+<gamerscore>100</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>7</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777063</id>
+<title>100 Words in a game</title>
+<description>Get 100 words in 1 game</description>
+<gamerscore>200</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>8</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777073</id>
+<title>50 Words in a Game</title>
+<description>Get 50 words in one game</description>
+<gamerscore>100</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>9</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+<achievement>
+<id>777083</id>
+<title>Get 200 Animals in one game</title>
+<description>Get 200 Animals in one game</description>
+<gamerscore>200</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>10</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</achievement>
+</achievements>
+<leaderboards>
+<leaderboard>
+<id>610714</id>
+<name>High Scores</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>224893</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2011-01-09 09:44:46 UTC</created_at>
+<updated_at>2011-01-09 09:44:46 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-01-09 16:25:03</timestamp>
+</leaderboard>
+</leaderboards>
+</offline>
+
+</resources>

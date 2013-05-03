@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'AlphaHunterIpad995' target in the 'AlphaHunterIpad995' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
